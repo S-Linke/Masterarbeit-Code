@@ -1,0 +1,39 @@
+
+Input alle Mapper
+256
+Output alle Mapper
+448
+
+Datenvolumen Input alle Mapper
+256
+Datenvolumen Output alle Mapper
+448
+
+Datenvolumen Input alle Reducer
+448
+Datenvolumen Output alle Reducer
+2528
+key Volume:
+0
+
+Reducersize q:
+121
+sum reducersizes j:
+448
+
+Anzahl Reducer
+4
+Reducersize q_i:
+
+Row(number=85, count=1)
+
+Row(number=121, count=3)
+
+b=
+8
+k=
+1
+u=
+2
+====================================
+
