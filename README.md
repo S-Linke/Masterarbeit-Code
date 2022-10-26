@@ -7,7 +7,7 @@ Das Programm erzeugt Binary Strings und sucht die Strings, welche die Hamming-Di
 Außerdem werden die Laufzeiten und verschiedene Eigenschaften der Algorithmen gemessen.
 
 # Ausführung
-Das Programm bitstrings.py aus dem Ordner Berechnung kann auf STandardhardware ausgeführt werden. Die Parameter b und k, sowie der name der Ausgabefile müssen im Code eingestellt werden.
+Das Programm bitstrings.py aus dem Ordner Berechnung kann auf Standardhardware als normales Python Programm ausgeführt werden. Die Parameter b und k, sowie der name der Ausgabefile müssen im Code eingestellt werden.
 
 ```
 python3 bitstrings.py 
