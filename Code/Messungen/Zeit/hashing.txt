@@ -1,0 +1,117 @@
+
+Mapper Time:
+4094
+GBK Time:
+6792
+Reducer Time:
+4938J:
+2
+
+
+overall Time hashing:
+19704
+
+
+Mapper Time:
+3608
+GBK Time:
+6345
+Reducer Time:
+5077J:
+2
+
+
+overall Time hashing:
+18762
+
+
+Mapper Time:
+4065
+GBK Time:
+5816
+Reducer Time:
+5370J:
+2
+
+
+overall Time hashing:
+19578
+
+
+Mapper Time:
+4246
+GBK Time:
+6194
+Reducer Time:
+5353J:
+3
+
+
+overall Time hashing:
+19131
+
+
+Mapper Time:
+3672
+GBK Time:
+5013
+Reducer Time:
+4081J:
+3
+
+
+overall Time hashing:
+16850
+
+
+Mapper Time:
+3892
+GBK Time:
+7415
+Reducer Time:
+5535J:
+3
+
+
+overall Time hashing:
+21260
+
+
+Mapper Time:
+3815
+GBK Time:
+6181
+Reducer Time:
+5805J:
+4
+
+
+overall Time hashing:
+18843
+
+
+Mapper Time:
+4325
+GBK Time:
+5920
+Reducer Time:
+5901J:
+4
+
+
+overall Time hashing:
+20200
+
+
+Mapper Time:
+3370
+GBK Time:
+6396
+Reducer Time:
+5370J:
+4
+
+
+overall Time hashing:
+19303
+
