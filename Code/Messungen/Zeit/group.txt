@@ -1,0 +1,39 @@
+
+Mapper Time:
+3008
+GBK Time:
+5422
+Reducer Time:
+4092group:
+2
+
+
+overall Time group:
+15965
+
+
+Mapper Time:
+3200
+GBK Time:
+5836
+Reducer Time:
+5484group:
+2
+
+
+overall Time group:
+18525
+
+
+Mapper Time:
+3108
+GBK Time:
+5731
+Reducer Time:
+4774group:
+2
+
+
+overall Time group:
+16544
+

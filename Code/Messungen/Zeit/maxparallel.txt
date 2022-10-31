@@ -1,0 +1,30 @@
+
+Mapper Time:
+3416
+GBK Time:
+3818
+Reducer Time:
+3621
+overall Time maxparallel:
+15795
+
+
+Mapper Time:
+3676
+GBK Time:
+4195
+Reducer Time:
+3956
+overall Time maxparallel:
+16530
+
+
+Mapper Time:
+3639
+GBK Time:
+3797
+Reducer Time:
+4087
+overall Time maxparallel:
+14667
+

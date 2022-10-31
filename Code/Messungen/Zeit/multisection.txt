@@ -1,0 +1,78 @@
+
+Mapper Time:
+6512
+GBK Time:
+5882
+Reducer Time:
+6206sections:
+2
+
+
+overall Time multisection:
+23541
+
+
+Mapper Time:
+7411
+GBK Time:
+5674
+Reducer Time:
+5389sections:
+2
+
+
+overall Time multisection:
+22924
+
+
+Mapper Time:
+8379
+GBK Time:
+5815
+Reducer Time:
+5378sections:
+2
+
+
+overall Time multisection:
+24921
+
+
+Mapper Time:
+8885
+GBK Time:
+5709
+Reducer Time:
+6683sections:
+4
+
+
+overall Time multisection:
+28675
+
+
+Mapper Time:
+7953
+GBK Time:
+6591
+Reducer Time:
+5247sections:
+4
+
+
+overall Time multisection:
+26525
+
+
+Mapper Time:
+8847
+GBK Time:
+5334
+Reducer Time:
+5335sections:
+4
+
+
+overall Time multisection:
+25751
+

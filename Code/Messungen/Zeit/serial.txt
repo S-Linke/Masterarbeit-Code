@@ -1,0 +1,30 @@
+
+Mapper Time:
+3778
+GBK Time:
+8915
+Reducer Time:
+7950
+overall Time serial:
+42168
+
+
+Mapper Time:
+3164
+GBK Time:
+8198
+Reducer Time:
+9459
+overall Time serial:
+36275
+
+
+Mapper Time:
+3237
+GBK Time:
+7603
+Reducer Time:
+8652
+overall Time serial:
+35779
+
